@@ -1,4 +1,4 @@
-# 🚗 Vehicle Damage Detection System
+# Vehicle Damage Detection System
 
 An AI-powered web application for automatic vehicle damage detection using **YOLOv8** and **Streamlit**. The system identifies different types of vehicle damage from uploaded images, estimates repair costs based on detected severity, and generates a detailed inspection report.
 
