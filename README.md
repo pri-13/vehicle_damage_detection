@@ -161,4 +161,3 @@ The system provides:
 
 ## 👨‍💻 Author
 
-Developed as a personal AI and Computer Vision project using YOLOv8 and Streamlit.
