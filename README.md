@@ -114,7 +114,7 @@ The application will open automatically in your browser.
 
 ---
 
-## 🎯 Supported Damage Classes
+## Supported Damage Classes
 
 * Dent
 * Scratch
