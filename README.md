@@ -103,7 +103,7 @@ The application will open automatically in your browser.
 
 ---
 
-## 📖 How It Works
+## How It Works
 
 1. Upload a vehicle image.
 2. Adjust the confidence threshold if required.
